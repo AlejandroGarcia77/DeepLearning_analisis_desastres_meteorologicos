@@ -1,4 +1,4 @@
-# Proyecto: Análisis de Datos y Visualización con Python
+# Proyecto: Análisis de tweets de desastres meteorológicos con Python
 
 Este proyecto es parte de mi portafolio y se centra en el análisis y visualización de datos utilizando diversas bibliotecas de Python. A lo largo del notebook, se exploran y procesan datos de tweets sobre desastres meteorológicos, para obtener averiguar cuales son desastres y cuales no. Y se presentan visualizaciones para facilitar la interpretación de la información.
 
